@@ -1,8 +1,9 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "ncc-2025"
+  title: "Neuroscience of Consciousness Course, Fall 2025"
   navbar:
     left:
       - href: index.qmd
