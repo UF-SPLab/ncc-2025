@@ -1,11 +1,19 @@
 ---
-title: "Neuroscience of Consciousness, Fall 2025"
+title: "Slideshows"
 ---
 
-Slide Presentations
+### Chapter 1
+- [View Ch1-slides in full screen](https://uf-splab.github.io/ncc-2025-Harley/ch1/ch1_rev25.html#/title-slide)
 
-- [Ch1-slides](https://uf-splab.github.io/ncc-2025-Harley/ch1/ch1_rev25.html#/title-slide)
+{{< revealjs file="https://uf-splab.github.io/ncc-2025-Harley/ch1/ch1_rev25.html#/title-slide" height="500px" class="ratio ratio-16x9" full-screen-link="false">}}
 
-- [Ch2-slides](https://uf-splab.github.io/ncc-2025-Harley/ch2/ch2_rev25.html#/title-slide)
+### Chapter 2
+- [View Ch2-slides in full screen](https://uf-splab.github.io/ncc-2025-Harley/ch2/ch2_rev25.html#/title-slide)
 
-- [Ch3-slides](https://uf-splab.github.io/ncc-2025-Harley/ch3/ch2_rev25.html#/title-slide)
+{{< revealjs file="https://uf-splab.github.io/ncc-2025-Harley/ch2/ch2_rev25.html#/title-slide" height="500px" class="ratio ratio-16x9" full-screen-link="false">}}
+
+### Chapter 3
+- [View Ch3-slides in full screen](https://uf-splab.github.io/ncc-2025-Harley/ch3/ch3_harley_rev25.html#/title-slide) 
+
+{{< revealjs file="https://uf-splab.github.io/ncc-2025-Harley/ch3/ch3_harley_rev25.html#/title-slide" height="500px" class="ratio ratio-16x9" full-screen-link="false" >}}
+
