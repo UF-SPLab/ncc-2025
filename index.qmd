@@ -1,6 +1,11 @@
 ---
-title: "ncc-2025"
+title: "Neuroscience of Consciousness, Fall 2025"
 ---
 
-This is a Quarto website.
+Slide Presentations
 
+- [Ch1-slides](https://uf-splab.github.io/ncc-2025-Harley/ch1/ch1_rev25.html#/title-slide)
+
+- [Ch2-slides](https://uf-splab.github.io/ncc-2025-Harley/ch2/ch2_rev25.html#/title-slide)
+
+- [Ch3-slides](https://uf-splab.github.io/ncc-2025-Harley/ch3/ch2_rev25.html#/title-slide)
