@@ -1,1 +1,46 @@
 /* css styles */
+
+.table-container {
+  max-width: 600px;     /* constrain table area */
+  overflow-x: auto;     /* horizontal scroll if needed */
+  border: 1px solid #ccc;
+  padding: 4px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  table-layout: fixed;   /* respect defined widths */
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: left;
+
+  /* wrapping rules */
+  white-space: normal;         /* allow multiple lines */
+  overflow-wrap: break-word;   /* modern wrapping */
+  word-break: break-word;      /* fallback */
+}
+
+
+
+/* Proportional column widths (scale with container) */
+col.col-1 { width: 25%; }
+col.col-2 { width: 35%; }
+col.col-3 { width: 40%; }
+
+/* Rebalance at narrower viewports */
+@media (max-width: 700px) {
+  col.col-1 { width: 30%; }
+  col.col-2 { width: 30%; }
+  col.col-3 { width: 40%; }
+}
+
+/* Extra-narrow phones: prioritize first column a bit */
+@media (max-width: 420px) {
+  col.col-1 { width: 34%; }
+  col.col-2 { width: 33%; }
+  col.col-3 { width: 33%; }
+}

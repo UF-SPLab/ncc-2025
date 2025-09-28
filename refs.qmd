@@ -1,0 +1,25 @@
+---
+title: "Reference Selections for Group Presentations"
+format: html
+tbl-colwidths: [10,20,20,10,10,10,15]
+---
+
+
+| Group# Pick | Relevance to Consciousness | Title | Citation | Journal info | Reference (online link) |
+|---|---|---|---|---|---|
+|  | Theories of consciousness | Adversarial testing of global neuronal workspace and integrated information theories of consciousness. | Cogitate Consortium et al., 2025 | *Nature*, 642(8066), 133–142 | <https://doi.org/10.1038/s41586-025-08888-1> |
+|  | Internal generation of conscious percepts | Imagination as a fundamental function of the hippocampus. | Comrie et al., 2022 | *Philosophical Transactions of the Royal Society B: Biological Sciences*, 377(1866), 20210336 | <https://doi.org/10.1098/rstb.2021.0336> |
+|  | Function and mechanisms of dreams | Learning beyond sensations: How dreams organize neuronal representations. | Deperrois et al., 2024 | *Neuroscience & Biobehavioral Reviews*, 157, 105508 | <https://doi.org/10.1016/j.neubiorev.2023.105508> |
+|  | Interoception & emotion consciousness | Interoceptive rhythms in the brain. | Engelen et al., 2023 | *Nature Neuroscience*, 26(10), 1670–1684 | <https://doi.org/10.1038/s41593-023-01425-1> |
+|  | Circuits necessary for consciousness | Human high-order thalamic nuclei gate conscious perception through the thalamofrontal loop. | Fang et al., 2025 | *Science*, 388(6742), eadr3675 | <https://doi.org/10.1126/science.adr3675> |
+|  | AI consciousness theory | Is artificial consciousness achievable? Lessons from the human brain. | Farisco et al., 2024 | *Neural Networks*, 180, 106714 | <https://doi.org/10.1016/j.neunet.2024.106714> |
+|  | Model example of how the brain represents and generates information | Predictive coding: A more cognitive process than we thought? | Gabhart et al., 2025 | *Trends in Cognitive Sciences*, 29(7), 627–640 | <https://doi.org/10.1016/j.tics.2025.01.012> |
+|  | Working memory | Dynamic prefrontal coupling coordinates adaptive decision-making. | Herman et al., 2025 | In Review | <https://doi.org/10.21203/rs.3.rs-6296852/v1> |
+|  | Working memory | Beta: Bursts of cognition. | Lundqvist et al., 2024 | *Trends in Cognitive Sciences*, 28(7), 662–676 | <https://doi.org/10.1016/j.tics.2024.03.010> |
+|  | Circuits necessary for consciousness | Local orchestration of distributed functional patterns supporting loss and restoration of consciousness in the primate brain. | Luppi et al., 2024 | *Nature Communications*, 15(1), 2171 | <https://doi.org/10.1038/s41467-024-46382-w> |
+|  | Function and mechanisms of dreams | The time course and organization of hippocampal replay. | Mallory et al., 2025 | *Science*, 387(6733), 541–548 | <https://doi.org/10.1126/science.ads4760> |
+|  | Model example of how the brain represents and generates information | Predictive Coding, Variational Autoencoders, and Biological Connections. | Marino, 2022 | *Neural Computation*, 34(1), 1–44 | <https://doi.org/10.1162/neco_a_01458> |
+|  | Perceptual & cognitive mechanisms of social play behavior | Behavioral and neural correlates of hide-and-seek in rats. | Reinhold et al., 2019 | *Science*, 365(6458), 1180–1183 | <https://doi.org/10.1126/science.aax4705> |
+|  | Interoception & emotion consciousness | Global coordination of brain activity by the breathing cycle. | Tort et al., 2025 | *Nature Reviews Neuroscience*, 26(6), 333–353 | <https://doi.org/10.1038/s41583-025-00920-7> |
+|  | Circuits necessary for consciousness | Thalamic contributions to the state and contents of consciousness. | Whyte et al., 2024 | *Neuron*, 112(10), 1611–1625 | <https://doi.org/10.1016/j.neuron.2024.04.019> |
+|  | Relevant to hallucination and neuroplasticity following deafferentation (loss of input) | Investigating sensitivity to multi-domain prediction errors in chronic auditory phantom perception. | Yasoda-Mohan et al., 2024 | *Scientific Reports*, 14(1), 11036 | <https://doi.org/10.1038/s41598-024-61045-y> |
